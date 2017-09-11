@@ -1,0 +1,3 @@
+- Installer WebStorm
+- Dans les settings->languages et frameworks->node.js => activer
+- Dans les settings->languages et frameworks->javascript => choisir la version ES6
